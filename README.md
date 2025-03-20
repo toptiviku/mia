@@ -54,15 +54,36 @@ There was an unexpected error
 #EXTINF:-1 tvg-id="RCTI.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+--------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="Villa  Indah TV",  RCTI
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/580.ts
+
+------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="GTV.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+--------
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/gtvv..jpg.png" group-title="Villa  Indah TV",  GTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/578.ts
+
+------
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="MNCTV.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+--------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tpi..jpg.png" group-title="Villa  Indah TV",  MNC TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/579.ts
+
+-------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -73,6 +94,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="ANTV.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/antvoke..jpg.png" group-title="Villa  Indah TV",  ANTV 
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/565.ts
+
+--------
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -92,6 +120,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF:-1 tvg-id="TransTV.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/transtvlama..jpg.png" group-title="Villa  Indah TV",  TRANS TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/576.ts
+
+------
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -104,6 +139,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #EXTINF:-1 tvg-id="Trans7.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tv7..jpg.png" group-title="Villa  Indah TV",  TRANS 7
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/577.ts
+
+-----
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -115,6 +157,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+----
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tvone..jpg.png" group-title="Villa  Indah TV",  TV ONE
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/562.ts
+
+--------
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -134,6 +183,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
+----------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/metrrotv..jpg.png" group-title="Villa  Indah TV",  METRO TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/563.ts
+
+----------
+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -152,6 +208,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+---------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/kompastv..jpg.png" group-title="Villa  Indah TV",   KOMPAS TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/564.ts
+
+-------
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
@@ -170,6 +232,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #EXTINF:-1 tvg-id="NET.id" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/596/596-LOGO-m.png",NET TV
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+
+---------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/nettv..jpg.png" group-title="Villa  Indah TV",  NET TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/574.ts
+
+----------
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -182,6 +251,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Villa  Indah TV" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",SCTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+--------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/ssctv..jpg.png" group-title="Villa  Indah TV",  SCTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/581.ts
+
+---------
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -199,17 +275,39 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Villa  Indah TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",Indosiar HD
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 
+----
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="Villa  Indah TV",  INDOSIAR
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/585.ts
+
+----
+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 tvg-id="__" group-title="Villa  Indah TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
+----
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/moji.jpg" group-title="Villa  Indah TV",  MOJI
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/584.ts
+
+---
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 #EXTINF:-1 tvg-id="__" group-title="Villa  Indah TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
+---------
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/rtvvv.jpg" group-title="Villa  Indah TV",  RTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/561.ts
+
+------
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -353,62 +451,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 ---------------
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="Villa  Indah TV",  INDOSIAR
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/585.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="Villa  Indah TV",  RCTI
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/580.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/ssctv..jpg.png" group-title="Villa  Indah TV",  SCTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/581.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tpi..jpg.png" group-title="Villa  Indah TV",  MNC TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/579.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/antvoke..jpg.png" group-title="Villa  Indah TV",  ANTV 
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/565.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/gtvv..jpg.png" group-title="Villa  Indah TV",  GTV
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/578.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/transtvlama..jpg.png" group-title="Villa  Indah TV",  TRANS TV
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/576.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tv7..jpg.png" group-title="Villa  Indah TV",  TRANS 7
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV03/27022025/577.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/moji.jpg" group-title="Villa  Indah TV",  MOJI
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV03/27022025/584.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tvone..jpg.png" group-title="Villa  Indah TV",  TV ONE
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/562.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/metrrotv..jpg.png" group-title="Villa  Indah TV",  METRO TV
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/563.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/kompastv..jpg.png" group-title="Villa  Indah TV",   KOMPAS TV
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/564.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/nettv..jpg.png" group-title="Villa  Indah TV",  NET TV
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/574.ts
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/rtvvv.jpg" group-title="Villa  Indah TV",  RTV
-#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
-https://ktvindonesia.my.id/live/PLKINGTV03/27022025/561.ts
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingang" group-title="Villa  Indah TV",  VTV
 #EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/PLKINGTV03/27022025/560.ts
@@ -418,7 +460,6 @@ https://ktvindonesia.my.id/live/PLKINGTV03/27022025/560.ts
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/btvv.png.jpg" group-title="Villa  Indah TV",  BTV📺
 https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
