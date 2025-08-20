@@ -1,4 +1,4 @@
-# POD Update 15/08/2025
+# POD Update 20/08/2025
 
 LIHAT GROUP AJA
 
@@ -20,6 +20,23 @@ https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-sta
 //========================================================================
 //menampilkan playlist >>> UNGGULAN LK21
 //========================================================================
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp",
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21-d21.jpg.webp", Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
+https://cloud.hownetwork.xyz/xxx/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bnMXFR0gFnwmHU90dWcT/33/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type=""  group-title="UNGGULAN LK21"" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-28-years-later-2025-lk21-d21.jpg.webp", 28 Years Later (2025)
+https://cloud.hownetwork.xyz/xxx/cEBkNyAYBTJvPRY4JkJ7anJKfGMSPDUFDg4vE3pSZDl2G3p9/33/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type=""  group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-elio-2025-lk21.jpg.webp", Elio (2025)
+https://cloud.hownetwork.xyz/xxx/JxQgIWhLR3N3fCAJAXQaBxoneC92SEV3djU/34/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp", Superman (2025)
@@ -204,12 +221,16 @@ https://png.pngtree.com/png-vector/20210827/ourmid/pngtree-new-item-poster-png-i
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="xxx", 
-
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-28-years-later-2025-lk21-d21.jpg.webp", 28 Years Later (2025)
+https://cloud.hownetwork.xyz/xxx/cEBkNyAYBTJvPRY4JkJ7anJKfGMSPDUFDg4vE3pSZDl2G3p9/33/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="xxx", 
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-elio-2025-lk21.jpg.webp", Elio (2025)
+https://cloud.hownetwork.xyz/xxx/JxQgIWhLR3N3fCAJAXQaBxoneC92SEV3djU/34/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21-d21.jpg.webp", Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
+https://cloud.hownetwork.xyz/xxx/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bnMXFR0gFnwmHU90dWcT/33/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/08/film-jongli-2025-lk21-d21.jpg.webp", Jongli (2025)
