@@ -116,61 +116,309 @@ https://cloud.hownetwork.xyz/xxx/004f0af7ce8561d3f99503ebf5b81541/5/480.m3u8
 #EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-kung-fu-panda-2008.jpg", Kung Fu Panda (2008)
 https://cloud.hownetwork.xyz/xxx/3d6f4520cf9f434fde0692526443d251/5/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+
+------------------------------------
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2024/01/film-migration-2023-lk21-d21.jpg.webp", Migration (2023)
+https://cloud.hownetwork.xyz/xxx/69367acd33aeccc9c0bbf907a33d0d1c/26/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/04/film-the-super-mario-bros-movie-2023-lk21-d21.jpg.webp", The Super Mario Bros. Movie (2023)
+https://cloud.hownetwork.xyz/xxx/2bfee991b091908117dff6342f20f190/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/12/film-chicken-run-dawn-of-the-nugget-2023-lk21-d21.jpg.webp", Chicken Run: Dawn of the Nugget (2023)
+https://cloud.hownetwork.xyz/xxx/c7db3b9a66360bbc90b8cd52741dde00/22/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/06/film-chicken-run-2000.jpg", Chicken Run (2000)
+https://cloud.hownetwork.xyz/xxx/4fcd5c559c24ef6415514faf15538268/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-elemental-2023-lk21-d21.jpg.webp", Elemental (2023)
+https://cloud.hownetwork.xyz/xxx/bef3e08f2cd9847840f3e83cfdb21eed/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/06/film-spongebob-squarepants-presents-the-tidal-zone-2023-lk21-d21.jpg.webp", SpongeBob SquarePants Presents the Tidal Zone (2023) 
+https://cloud.hownetwork.xyz/xxx/dee4954697f699e978ba9aa13420adb3/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/05/film-didi-friends-the-movie-2023-lk21-d21.jpg.webp", Didi & Friends the Movie (2023)
+https://cloud.hownetwork.xyz/xxx/ebcf25ab99333040a5d8aaace232337d/10/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/01/film-puss-in-boots-the-last-wish-2022-lk21-d21.jpg.webp", Puss in Boots: The Last Wish (2022)
+https://cloud.hownetwork.xyz/xxx/b0eed9c56a715c5f0ac73a3bd4760320/31/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/04/film-marcel-the-shell-with-shoes-on-2022-lk21-d21.jpg.webp", Marcel the Shell with Shoes On (2022)
+https://cloud.hownetwork.xyz/xxx/51d8cf99f316566adaffdf50d421434c/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/12/film-aqua-teen-forever-plantasm-2022-lk21-d21.jpg.webp", Aqua Teen Forever: Plantasm (2022)
+https://cloud.hownetwork.xyz/xxx/9be8c5e0b332fea6c6c7aedbd5c5322e/29/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/10/film-trick-or-treat-scooby-doo-2022-lk21-d21.jpg.webp", Trick or Treat Scooby-Doo! (2022)
+https://cloud.hownetwork.xyz/xxx/52ac0fa5f7eca8aba80400fe9a1f28a6/19/480.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/11/film-tad-the-lost-explorer-and-the-emerald-tablet-2022-lk21-d21.jpg.webp", Tad the Lost Explorer and the Emerald Tablet (2022)
+https://cloud.hownetwork.xyz/xxx/aa74dd504f3c470dd60ef8698a2f8853/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/01/film-hotel-transylvania-transformania-2022-lk21-d21.jpg.webp", Hotel Transylvania 4: Transformania (2022) 
+https://cloud.hownetwork.xyz/xxx/b3c453bc31de3ca613abf5cd1a7772f3/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/04/film-monster-pets-a-hotel-transylvania-short-film-monster-pets-a-hotel-transylvania-2021-lk21-d21.jpg", Monster Pets: A Hotel Transylvania Short Film (Monster Pets: A Hotel Transylvania) (2021)
+https://cloud.hownetwork.xyz/xxx/67f07f3a53c627b34a34790445795dd9/14/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2018/07/film-hotel-transylvania-3-summer-vacation-2018-lk21.jpg", Hotel Transylvania 3: Summer Vacation (2018)
+https://cloud.hownetwork.xyz/xxx/14ee649c8cdbe2ee8b4cb6faa273002e/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://tv6.lk21official.cc/puppy-2017", Puppy!: A Hotel Transylvania Short' (Puppy) (2017)
+https://cloud.hownetwork.xyz/xxx/1992bd684ad6b751900ed68101d82fe8/13/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-hotel-transylvania-2-2015.jpg", Hotel Transylvania 2 (2015)
+https://cloud.hownetwork.xyz/xxx/402c6a15f0163cde500205c0358448e4/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-hotel-transylvania-2012.jpg", Hotel Transylvania (2012)
+https://cloud.hownetwork.xyz/xxx/5f7733b2ec4e095802d8ddfec30f986e/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/01/film-the-amazing-maurice-2022-lk21-d21.jpg.webp", The Amazing Maurice (2022)
+https://cloud.hownetwork.xyz/xxx/6ff996aebbfb046aacfcff287937090d/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/03/film-mechamato-movie-2022-lk21-d21.jpg.webp", Mechamato Movie (2022)
+https://cloud.hownetwork.xyz/xxx/c4fc1e312abfa63eb58651d2afae3f3c/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/12/film-the-boss-baby-christmas-bonus-2022-lk21-d21.jpg.webp", The Boss Baby: Christmas Bonus (2022)
+https://cloud.hownetwork.xyz/xxx/797687148e471d737841cb83595a39b1/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/07/film-the-boss-baby-family-business-2021-lk21.jpg",  The Boss Baby: Family Business (2021)
+https://cloud.hownetwork.xyz/xxx/ac7e5937c59ba3e1e0dc833d7c4abd66/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2017/04/film-the-boss-baby-2017.jpg", The Boss Baby (2017)
+https://cloud.hownetwork.xyz/xxx/35cf4ebd7b19717b492507f80c22c153/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/10/film-wendell-wild-2022-lk21-d21.jpg.webp", Wendell & Wild (2022)
+https://cloud.hownetwork.xyz/xxx/a20a46742fbe104d645897893f54555f/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/08/film-dc-league-of-super-pets-2022-lk21-d21.jpg.webp", DC League of Super-Pets (2022)
+https://cloud.hownetwork.xyz/xxx/aa277bb5bf7e09356b2052ef70aabf92/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/10/film-mia-and-me-the-hero-of-centopia-2022-lk21-d21.jpg.webp", Mia and Me: The Hero of Centopia (2022)
+https://cloud.hownetwork.xyz/xxx/28592c9be06ace9e25de9bc412556ea1/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/10/film-minions-more-1-2022-lk21-d21.jpg.webp", Minions & More 1 (2022)
+https://cloud.hownetwork.xyz/xxx/c991b9105be95e8e9dfa5448553571df/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/07/film-minions-the-rise-of-gru-2022-lk21-d21.jpg.webp", Minions: The Rise of Gru (2022)
+https://cloud.hownetwork.xyz/xxx/28ce35dca40e6342eed0871ef43c9557/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2020/12/film-minions-holiday-special-2020-lk21.jpg", Minions Holiday Special (2020)
+https://cloud.hownetwork.xyz/xxx/f44a92aa535f1710798e6d14d525b058/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/11/film-mower-minions-2016.jpg", Mower Minions (2016)
+https://cloud.hownetwork.xyz/xxx/2b099b7e3ee108733d3e36598be142bd/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-minions-2015.jpg", Minions (2015)
+https://cloud.hownetwork.xyz/xxx/f3fdc74162669e75f5d5c69b18f27d2d/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://tv6.lk21official.cc/paws-of-fury-the-legend-of-hank-2022", Paws of Fury: The Legend of Hank (2022)
+https://cloud.hownetwork.xyz/xxx/cd098e7fe072fb86736bad052febb1cb/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/07/film-the-sea-beast-2022-lk21-d21.jpg.webp", The Sea Beast (2022)
+https://cloud.hownetwork.xyz/xxx/7d00615c39755377de5389432d6c64b5/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/06/film-chickenhare-and-the-hamster-of-darkness-hopper-et-le-hamster-des-tanabres-2022-lk21-d21.jpg.webp",Chickenhare and the Hamster of Darkness (Hopper et le hamster des tAnAbres) (2022) 
+https://cloud.hownetwork.xyz/xxx/a33ce06ecd9ab1d1a48807c474438077/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/05/film-chip-n-dale-rescue-rangers-2022-lk21-d21.jpg.webp", Chip 'n Dale: Rescue Rangers (2022)
+https://cloud.hownetwork.xyz/xxx/4b977b2a290c8ef889e6a2d8d2fe9c06/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/12/film-encanto-2021-lk21-d21.jpg.webp", Encanto (2021)
+https://cloud.hownetwork.xyz/xxx/00471f1a5e19f1bc0099474102321a6c/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/06/film-luca-2021-lk21.jpg.webp", Luca (2021)
+https://cloud.hownetwork.xyz/xxx/9b08def2cc562d20dde4101ac09a0d12/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/10/film-i-am-what-i-am-2021-lk21-d21.jpg.webp", I Am What I Am (2021)
+https://cloud.hownetwork.xyz/xxx/3c81bde586c3931407837a9b2147bd24/4/480.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/06/film-monkey-king-reborn-the-monkey-king-reborn-2021-lk21-d21.jpg.webp", Monkey King Reborn (The Monkey King: Reborn) (2021) 
+https://cloud.hownetwork.xyz/xxx/e20461cb5a7d5a8ad5792089e83b7deb/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/05/film-checkered-ninja-2-ternet-ninja-2-2021-lk21-d21.jpg.webp",Checkered Ninja 2 (Ternet Ninja 2) (2021) 
+https://cloud.hownetwork.xyz/xxx/3b9529b73f7990486a0e3604ba76cce3/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/05/film-checkered-ninja-ternet-ninja-2018-lk21.jpg", Checkered Ninja (Ternet ninja) (2018)
+https://cloud.hownetwork.xyz/xxx/e342b2066a3f3faa704fbb24299d14eb/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/03/film-raya-and-the-last-dragon-2021-lk21.jpg.webp", Raya and the Last Dragon (2021)
+https://cloud.hownetwork.xyz/xxx/d75dcb3b425a2fd81b000b3cb9fa5341/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/01/film-riverdance-the-animated-adventure-2021-lk21-d21.jpg.webp", Riverdance: The Animated Adventure (2021) 
+https://cloud.hownetwork.xyz/xxx/21975d158c7865316524f9cf51efa328/15/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/12/film-back-to-the-outback-2021-lk21-d21.jpg.webp",Back to the Outback (2021) 
+https://cloud.hownetwork.xyz/xxx/c503309092555acea649d93f7e94765f/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/12/film-rons-gone-wrong-2021-lk21-d21.jpg.webp", Ron's Gone Wrong (2021)
+https://cloud.hownetwork.xyz/xxx/29a4a7ce915293a0abc0cc853fe5a485/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/12/film-shaun-the-sheep-the-flight-before-christmas-2021-lk21-d21.jpg.webp", Shaun the Sheep: The Flight Before Christmas (2021) 
+https://cloud.hownetwork.xyz/xxx/a3fbe29a3a0d83be74326ef594878517/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2020/02/film-a-shaun-the-sheep-movie-farmageddon-2019-lk21.jpg", A Shaun the Sheep Movie: Farmageddon (2019)
+https://cloud.hownetwork.xyz/xxx/d65e9c4e93a58458c7a266c34a08f6dd/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/02/film-shaun-the-sheep-movie-2015.jpg", Shaun the Sheep Movie (2015)
+https://cloud.hownetwork.xyz/xxx/b82dffa930c40102c33387522eb92589/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/05/film-the-mitchells-vs-the-machines-the-mitchells-vs-the-machines-2021-lk21.jpg.webp",The Mitchells vs the Machines (The Mitchells vs. the Machines) (2021) 
+https://cloud.hownetwork.xyz/xxx/3275ae63b41e1df23243b61e9e09ad90/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/05/film-22-vs-earth-2021-lk21.jpg.webp", 22 vs. Earth (2021)
+https://cloud.hownetwork.xyz/xxx/45dca87121e01429a2c956405da83813/17/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/11/film-paw-patrol-the-movie-2021-d21.jpg.webp", PAW Patrol: The Movie (2021)
+https://cloud.hownetwork.xyz/xxx/4dba05f08bf9713488cf4567302db58f/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/05/film-planet-51-2009.jpg", Planet 51 (2009)
+https://cloud.hownetwork.xyz/xxx/28496590c4942266ac6c5ebdad4d6ca3/8/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/03/film-two-by-two-overboard-ooops-the-adventure-continues-2020-lk21.jpg.webp", Two by Two: Overboard! (Ooops! The Adventure Continues) (2020)
+https://cloud.hownetwork.xyz/xxx/4cd98f5f1d0996b3fc89b9a2dd7d8d8a/16/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-all-creatures-big-and-small-2015.jpg.webp", All Creatures Big and Small (Ooops! Noah Is Gone) (2015)
+https://cloud.hownetwork.xyz/xxx/dddc032aab0c00e333f8c4a625293de6/10/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2020/12/film-the-croods-a-new-age-2020-lk21.jpg.webp",The Croods: A New Age (2020) 
+https://cloud.hownetwork.xyz/xxx/8244fc218af5a424c859ca806bb368c5/11/480.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-the-croods-2013.jpg", The Croods (2013)
+https://cloud.hownetwork.xyz/xxx/b99fed1275320495af279bb28d1757c2/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-home-2015.jpg", Home (2015)
+https://cloud.hownetwork.xyz/xxx/67c2eb210538448af6e89bff553f26a6/6/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/04/film-zootopia-2016.jpg.webp", Zootopia (2016)
+https://cloud.hownetwork.xyz/xxx/6b4be59dbc79fe2abf327d20ea519c4f/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-penguins-of-madagascar-2014.jpg", Penguins of Madagascar (2014)
+https://cloud.hownetwork.xyz/xxx/821830a9cd0a8bb256ecf57a0a2f0f2a/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-island-of-lemurs-madagascar-2014.jpg", Island of Lemurs: Madagascar (2014)
+https://cloud.hownetwork.xyz/xxx/3f38d19549d8609178931cbe1be0cc45/19/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/08/film-madly-madagascar-2013.jpg", Madly Madagascar (2013)
+https://cloud.hownetwork.xyz/xxx/01375eac151b4a2c8d85e03e585aa23a/7/480.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/09/film-madagascar-3-europes-most-wanted-2012.jpg", Madagascar 3: Europe's Most Wanted (2012)
+https://cloud.hownetwork.xyz/xxx/42c80249132a29e621cb8f36d7113c37/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://tv6.lk21official.cc/madagascar-escape-2-africa-2008", Madagascar: Escape 2 Africa (2008)
+https://cloud.hownetwork.xyz/xxx/3edb618e0e7ee330405b2c89c17cd08f/23/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-madagascar-2005.jpg", Madagascar (2005) 
+https://cloud.hownetwork.xyz/xxx/b471e625f19554f1a7188613e893205d/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/02/film-rio-2-2014.jpg", Rio 2 (2014)
+https://cloud.hownetwork.xyz/xxx/05f24483d31dc53eaaebd1cc031ec7dc/8/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/02/film-rio-2011.jpg", Rio (2011)
+https://cloud.hownetwork.xyz/xxx/b69790fde29393700e31b6bd4e2a8a59/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="X", 
+
+
+=========================================================
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="X", 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="X", 
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="X", 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="X", 
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="X", 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="X", 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+
