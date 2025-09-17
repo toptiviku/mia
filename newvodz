@@ -1,4 +1,4 @@
-# POD Update 06/09/2025
+# POD Update 17/09/2025
 
 LIHAT GROUP AJA
 
@@ -12,28 +12,13 @@ There was an unexpected error
                    (type=Not Found, status=404).
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png", *** UNGGULAN ***
-https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png
 
-
-//========================================================================
-//menampilkan playlist >>> UNGGULAN LK21
-//========================================================================
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",  The Last Witch Hunter (2015)
-https://cloud.hownetwork.xyz/xxx/803c30f3090185903a66d0ce1b242d7a/3/480.m3u8
-
+========================================================================
 Doraemon the Movie
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Doraemon the Movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-doraemon-movie-nobitas-art-world-tales-2025-lk21.jpg.webp", Doraemon the Movie: Nobita's Art World Tales (2025)
 https://cloud.hownetwork.xyz/xxx/Jhc7LyAUGC9vPBg6KlV7Ni0aIDokClogMCVaOyxCOjxvDCgiIApac3JjQmEUdRQcDicREX1IEnd1ZUJ7/34/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Doraemon the Movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2024/11/film-doraemon-the-movie-nobitas-earth-symphony-2024-lk21-d21.jpg", Doraemon the Movie: Nobita's Earth Symphony (2024)
@@ -52,12 +37,48 @@ https://cloud.hownetwork.xyz/xxx/04da22fc98450044e492a67be30377e8/1/480.m3u8
 #EXTINF:-1 type="" group-title="Doraemon the Movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/07/film-doraemon-the-movie-nobitas-new-dinosaur-2020-lk21-d21.jpg", Doraemon the Movie: Nobita's New Dinosaur (2020)
 https://cloud.hownetwork.xyz/xxx/5203fabdb7fcf93fb39ca5d47ef42620/1/480.m3u8
 
+========================================================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+========================================================================
+TRANSFORMER
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Transformers" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-transformers-2007.jpg", Transformers (2007)
@@ -83,7 +104,6 @@ https://cloud.hownetwork.xyz/xxx/16ace8b95e04785f0be898a6e844658d/31/480.m3u8
 #EXTINF:-1 type="" group-title="Transformers" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg", Transformers: Rise of the Beasts (2023)
 https://cloud.hownetwork.xyz/xxx/fb563ba73a808eaaee26ccd7defbdc17/25/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Transformers" tvg-logo="https://poster.lk21.party/wp-content/uploads/2024/09/film-transformers-one-2024-lk21-d21.jpg", Transformers One (2024)
 https://cloud.hownetwork.xyz/xxx/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
@@ -95,43 +115,70 @@ https://cloud.hownetwork.xyz/xxx/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
 john wick
 
 
+//========================================================================
+//menampilkan playlist >>> UNGGULAN LK21
+//========================================================================
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png", *** UNGGULAN ***
+https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-noijeu-2025-lk21.jpg.webp", Nonton Noijeu (2025)
+https://cloud.hownetwork.xyz/xxx/LBcgJCAMWnNyY0JhFHUUHA4nERFwThEldmcTLQ/34/480.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-suryapet-junction-2025-lk21.jpg.webp", Nonton Suryapet Junction (2025)
+https://cloud.hownetwork.xyz/xxx/MQ07NyQJEjVvOwIiIEQ_NyxVe353TFoWBxMzABxoCTtzT3h2cEFB/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-captain-hook-cursed-tides-2025-lk21-1.jpg.webp", Nonton Captain Hook: The Cursed Tides (2025)
+https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwqPhgnblMjKjEdLWMxEBMkMXxFfHEFew8HOg0CGiEodyRiE3lzA2c/34/480.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-frank-2025-lk21.jpg.webp", Nonton Frank (2025)
+https://cloud.hownetwork.xyz/xxx/JAooIC5URXFwZFobBnISFB0gFntwQEd4cDJO/34/480.m3u8
+
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-lifes-bitch-2023-lk21.jpg.webp", Nonton Life's a Bitch (2023)
+https://cloud.hownetwork.xyz/xxx/LhEvKzZUFSg2Mh9hcQBka28vDAwBNSgZHWBEeXJVbzon/34/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-simon-2024-lk21.jpg.webp", Nonton Simon (2024)
+https://cloud.hownetwork.xyz/xxx/MREkIStURXFwZVobBnISFB0gFnp1H0N4e2hG/34/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-coolie-2025-lk21.jpg.webp", Nonton Coolie (2025) 
+https://cloud.hownetwork.xyz/xxx/IRcmIiwcWnNyY0JhFHUUHA4nERF3GER5cDBFLg/34/480.m3u8
 
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",  The Last Witch Hunter (2015)
+https://cloud.hownetwork.xyz/xxx/803c30f3090185903a66d0ce1b242d7a/3/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-weapons-2025-lk21.jpg.webp", Nonton Weapons (2025)
+https://cloud.hownetwork.xyz/xxx/NR0oPioXBGxwYUV5bmcTGgY0FhYaT0QgczBAfiA/34/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/04/film-nobody-2021-lk21.jpg.webp", Nobody (2021)
 https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNyY0ZhAVwjCiMBFhYaTxIgd2gUdCY/34/480.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-nobody-2-2025-lk21.jpg.webp", Nobody 2 (2025)
 https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNvY0d-dh0BHQA8BREdJkNzezdGLiYA/34/480.m3u8
 
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/12/film-the-family-plan-2023-lk21-d21.jpg.webp", Nonton The Family Plan (2023) 
+https://cloud.hownetwork.xyz/xxx/69eec6eba8c4575f98dd6050bebc90bc/22/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 3 (2023)
@@ -145,7 +192,6 @@ https://cloud.hownetwork.xyz/xxx/79a55f48b847800cf6a2660ab847aa71/24/480.m3u8
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 1 (2023)
 https://cloud.hownetwork.xyz/xxx/e867f9f438427795757acccf67303e6d/3/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg", John Wick: Chapter 4 (2023)
 https://cloud.hownetwork.xyz/xxx/7dfaf46a3f996704f3ba333f161f5f93/6/480.m3u8
@@ -154,11 +200,9 @@ https://cloud.hownetwork.xyz/xxx/7dfaf46a3f996704f3ba333f161f5f93/6/480.m3u8
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/05/film-john-wick-chapter-3-parabellum-2019-lk21.jpg", John Wick: Chapter 3 - Parabellum (2019)
 https://cloud.hownetwork.xyz/xxx/f8d4e620f1c8ddbbddf0e7881d2f9f49/2/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2017/02/film-john-wick-chapter-2-2017.jpg", John Wick: Chapter 2 (2017)
 https://cloud.hownetwork.xyz/xxx/70ce7f2861d3f0e584e7b7f5875a5002/5/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-john-wick-2014.jpg", John Wick (2014)
@@ -202,7 +246,6 @@ https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYRR1FBwOJxE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/08/film-king-ivory-2025-lk21-d21.jpg.webp", King Ivory (2025)
 https://cloud.hownetwork.xyz/xxx/KREnKWgQAS4wKFp-cwJjdRU9CwoJJi8ecDcTfXtVNDs/34/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",  Snow White (2025)
