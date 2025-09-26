@@ -41,9 +41,6 @@ https://cloud.hownetwork.xyz/xxx/5203fabdb7fcf93fb39ca5d47ef42620/1/480.m3u8
 
 
 Jason Statham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
 
 #EXTINF:-1 type="" group-title="Jason Statham" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTY5MWQ2YzUtNGM4YS00ZTYxLWJkMGUtMTg2ODlkNDUwMzY1XkEyXkFqcGc@._V1_.jpg", Ghosts of Mars (2001) 
 https://cloud.hownetwork.xyz/xxx/6f145f41f92593cee11250d0e74dbc07/3/480.m3u8
@@ -153,10 +150,71 @@ john wick
 //========================================================================
 
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png", *** UNGGULAN ***
 https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
+
+
+
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoLql3YmWNdqWXEiZj6d3j6av5RmF48QrEQ&s", The Fantastic Four: First Steps (2025) 
@@ -183,7 +241,6 @@ https://fin-3dg-b1.i8yz83pn.com/hls2/10/02744/c2jis8r3idis_h/index-v1-a1.m3u8?t=
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3OhCqOnyix1WwZY4nMc0lTQendAV0X0bGg&s", The Protector (2025)
 https://cloud.hownetwork.xyz/xxx/MgomOiAaAy4wfEV8cQV7Dwc6DQIaISh5cmETKXoGMA/34/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4tiUIkWxvTN60EfEhzMxkL6oq8PPkCH9hg&s", Incredibles 2 (2018)
 https://cloud.hownetwork.xyz/xxx/ab505dc448b6facb62c66961251263cb/5/480.m3u8
@@ -191,7 +248,6 @@ https://cloud.hownetwork.xyz/xxx/ab505dc448b6facb62c66961251263cb/5/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://image.tmdb.org/t/p/original/6NuPGSZ7VGT6I5j0kQZcMVa0eAO.jpg", The Incredibles (2004)
 https://cloud.hownetwork.xyz/xxx/5063e417bd205c13764447c3e21bcc3f/8/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w500/w0WpSIv7ta6Cc4yRfTCkmEbAolW.jpg", A Gilded Game (2025)
@@ -205,16 +261,9 @@ https://cloud.hownetwork.xyz/xxx/KRknICQJByBvY0d-dh0BHQA8BREdJkN5cTQTfCYE/34/480
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Bullet Train (2022)
 https://cloud.hownetwork.xyz/xxx/ca5beb69a2f2e368dd771da9dca261d3/3/480.m3u8
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmucAGOHA9OLQBU4RXiJpRjyJm-pN8zsRxw&s", Noijeu (2025)
 https://cloud.hownetwork.xyz/xxx/LBcgJCAMWnNyY0JhFHUUHA4nERFwThEldmcTLQ/34/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzZjVhYTktZDA3YS00M2NjLTkzZTItYzNkMTZjMjY2MmIzXkEyXkFqcGc@._V1_.jpg", Prisoner of War (2025) 
@@ -232,13 +281,6 @@ https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwqPhgnblMjKjEdLWMxEBMkMXxFfHEFew8HOg0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E0YjdmNzMtOWIyNi00NDk4LWJhMWUtYWM0ZmI3NThjMDliXkEyXkFqcGc@._V1_.jpg", Frank (2025)
 https://cloud.hownetwork.xyz/xxx/JAooIC5URXFwZFobBnISFB0gFntwQEd4cDJO/34/480.m3u8
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFmOWU2MDAtNzc5My00NWZiLWI5YzQtZjczOTY3ZTYxYTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Life's a Bitch (2023)
@@ -10783,7 +10825,6 @@ https://cdn7iv.diebutx.com/ownhls/2020/edb5c17fedeada545ebc280a4b4cd5cf/720p/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg", Thunderbolts* (2025)
 https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8/33/480.m3u8
-https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVKi8oJi8eJDBPdXcEM2w/32/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",🔵 Captain America: Brave New World (2025)
@@ -10804,7 +10845,7 @@ https://cdn3.turboviplay.cc/data1/6782110cd6512/6782110cd6512720.m3u8
 https://cloud.hownetwork.xyz/xxx/00dc6daaaa8b89f4de305405684ec37c/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/16/Deadpool.Wolverine.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp",Ant-Man and the Wasp - Quantumania (2023)
+#EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp", Ant-Man and the Wasp - Quantumania (2023)
 https://cloud.hownetwork.xyz/xxx/6899c257c55deb7af8cd9f618f128caa/31/480.m3u8
 https://storage.dewanonton.online/hls/e55858e1-a87e-458a-92f2-5de97d89c651.mp4/index.m3u8
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/01/task1/a0cada1dd61309f47226c37d48798a5e/360p/index.m3u8
@@ -10816,7 +10857,7 @@ https://storage.dewanonton.online/hls/7a5652d4-708a-4c0f-8147-be7700dd1ce9.mp4/i
 #EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/12/film-the-guardians-of-the-galaxy-holiday-special-2022-lk21-d21.jpg.webp",The Guardians of the Galaxy Holiday Special (2022)
 https://cloud.hownetwork.xyz/xxx/da12eb26bbda1107ae93e9fd72b534de/31/480.m3u8
 
-#EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg.webp",Doctor Strange in the Multiverse of Madness (2022)
+#EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg.webp", Doctor Strange in the Multiverse of Madness (2022)
 https://cloud.hownetwork.xyz/xxx/a8be651b3ee9f0ba436e50f32340bd32/31/480.m3u8
 https://storage.dewanonton.online/hls/2fe2dfa8-5b26-4c13-83ff-bfa55990ed33.mp4/index.m3u8
 
