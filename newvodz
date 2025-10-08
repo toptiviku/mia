@@ -1,4 +1,4 @@
-# POD Update 24/09/2025
+# POD Update 08/10/2025
 
 LIHAT GROUP AJA
 
@@ -10,6 +10,375 @@ This application has no explicit mapping for /error, so you are seeing this as a
 There was an unexpected error 
             
                    (type=Not Found, status=404).
+
+
+//========================================================================
+//menampilkan playlist >>> UNGGULAN LK21
+//========================================================================
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png", *** UNGGULAN ***
+https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", The Lost Bus (2025)
+https://cloud.hownetwork.xyz/xxx/Lhc6OmgbAjJvY0d-dh0BHQA8BREdJhZ3ezBGencE/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://image.tmdb.org/t/p/original/cUaHYiNyKG5oFlgow9z1LGWAXp9.jpg", Play Dirty (2025)
+https://cloud.hownetwork.xyz/xxx/MhQoN2gdHjM2KFp-cwJjdRU9CwoJJi8ecWkUf3ZWMjs/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://diskursusnetwork.com/wp-content/uploads/2025/10/Film-horor-The-Conjuring-Last-Rites.png", The Conjuring: Last Rites (2025
+https://cloud.hownetwork.xyz/xxx/IRcnJDALHi8lfBstMER7KisMLD1oS0dzd3wgCQF0GgcaJysrckERIHpm/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoLql3YmWNdqWXEiZj6d3j6av5RmF48QrEQ&s", The Fantastic Four: First Steps (2025) 
+https://cloud.hownetwork.xyz/xxx/NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnxjEjw1BQ4OLxMmAG87cUp5LA/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNlMzI3OWMtYmI4OC00OTJlLWE0ZTAtYWFjYTBjNGI0NmEzXkEyXkFqcGc@._V1_.jpg", Night of the Reaper (2025)
+https://cloud.hownetwork.xyz/xxx/LBEuJjFUBSQjIRI-bgJmandVHgsHPTseGg5EKSIDMGhyGg/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_.jpg", The Naked Gun (2025) 
+https://cloud.hownetwork.xyz/xxx/LBkiKyFUEDQsfEV8cQV7Dwc6DQIaISglcjAWL3cJYQ/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhkMjFhOTItMTczNi00YWM1LTlhZjItOTc4OTA0OWVhZTIzXkEyXkFqcGc@._V1_QL75_UX820_.jpg", Mahavatar Narsimha (2025)
+https://cloud.hownetwork.xyz/xxx/LxkhLzMYAyAwfBktMUM_NSoZZHx1S0JsFRQ1CA9vDgdzSCoqdRwRJw/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://image.tmdb.org/t/p/original/pb8rHkAyojBYtMe5fnSvFMCPc3D.jpg", Dog (2022)
+https://cloud.hownetwork.xyz/xxx/LBkiKyFUEDQsfEV8cQV7Dwc6DQIaISglcjAWL3cJYQ/34/480.m3u8
+https://fin-3dg-b1.i8yz83pn.com/hls2/10/02744/c2jis8r3idis_h/index-v1-a1.m3u8?t=vg7uvmb4t0WpHhL0zEtrjzh43cNqWAOOLENbf6pMhZQ&s=1758678896&e=10800&f=13720087&srv=1075&asn=7713&sp=4000&p=
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3OhCqOnyix1WwZY4nMc0lTQendAV0X0bGg&s", The Protector (2025)
+https://cloud.hownetwork.xyz/xxx/MgomOiAaAy4wfEV8cQV7Dwc6DQIaISh5cmETKXoGMA/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4tiUIkWxvTN60EfEhzMxkL6oq8PPkCH9hg&s", Incredibles 2 (2018)
+https://cloud.hownetwork.xyz/xxx/ab505dc448b6facb62c66961251263cb/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://image.tmdb.org/t/p/original/6NuPGSZ7VGT6I5j0kQZcMVa0eAO.jpg", The Incredibles (2004)
+https://cloud.hownetwork.xyz/xxx/5063e417bd205c13764447c3e21bcc3f/8/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w500/w0WpSIv7ta6Cc4yRfTCkmEbAolW.jpg", A Gilded Game (2025)
+https://cloud.hownetwork.xyz/xxx/I1UuJykdEiVvNhYhJh1kaHBNZAwpDCUgOw4vEyAFN20gSXks/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdhMjA2NWMtNmVkOC00ODdiLTgwNjItNWQ5ZGI1ZTEzODI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Kannappa (2025)
+https://cloud.hownetwork.xyz/xxx/KRknICQJByBvY0d-dh0BHQA8BREdJkN5cTQTfCYE/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Bullet Train (2022)
+https://cloud.hownetwork.xyz/xxx/ca5beb69a2f2e368dd771da9dca261d3/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmucAGOHA9OLQBU4RXiJpRjyJm-pN8zsRxw&s", Noijeu (2025)
+https://cloud.hownetwork.xyz/xxx/LBcgJCAMWnNyY0JhFHUUHA4nERFwThEldmcTLQ/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzZjVhYTktZDA3YS00M2NjLTkzZTItYzNkMTZjMjY2MmIzXkEyXkFqcGc@._V1_.jpg", Prisoner of War (2025) 
+https://cloud.hownetwork.xyz/xxx/MgogPSoXEjNvJhY-bgJmandVHgsHPTseGg4ReCIEb2t7Tw/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUyM2MzMWQtOWU0OC00MmI3LWFmODctODc4NGZiMjMxYWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Suryapet Junction (2025)
+https://cloud.hownetwork.xyz/xxx/MQ07NyQJEjVvOwIiIEQ_NyxVe353TFoWBxMzABxoCTtzT3h2cEFB/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BODNkNmRkYTYtYjMyNi00MjAxLWFhN2UtNzJmZThjZDE5MzljXkEyXkFqcGc@._V1_.jpg", Captain Hook: The Cursed Tides (2025)
+https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwqPhgnblMjKjEdLWMxEBMkMXxFfHEFew8HOg0CGiEodyRiE3lzA2c/34/480.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E0YjdmNzMtOWIyNi00NDk4LWJhMWUtYWM0ZmI3NThjMDliXkEyXkFqcGc@._V1_.jpg", Frank (2025)
+https://cloud.hownetwork.xyz/xxx/JAooIC5URXFwZFobBnISFB0gFntwQEd4cDJO/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFmOWU2MDAtNzc5My00NWZiLWI5YzQtZjczOTY3ZTYxYTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Life's a Bitch (2023)
+https://cloud.hownetwork.xyz/xxx/LhEvKzZUFSg2Mh9hcQBka28vDAwBNSgZHWBEeXJVbzon/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Z-4_s9GueNII1ojfIXc7rf39Z3hSPqDy7w&s", Simon (2024)
+https://cloud.hownetwork.xyz/xxx/MREkIStURXFwZVobBnISFB0gFnp1H0N4e2hG/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yich0Yh_ojlBYhbCuI3jiW1kTWr6f3-BXQ&s", Coolie (2025) 
+https://cloud.hownetwork.xyz/xxx/IRcmIiwcWnNyY0JhFHUUHA4nERF3GER5cDBFLg/34/480.m3u8
+
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",  The Last Witch Hunter (2015)
+https://cloud.hownetwork.xyz/xxx/803c30f3090185903a66d0ce1b242d7a/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg", Weapons (2025)
+https://cloud.hownetwork.xyz/xxx/NR0oPioXBGxwYUV5bmcTGgY0FhYaT0QgczBAfiA/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/04/film-nobody-2021-lk21.jpg.webp", Nobody (2021)
+https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNyY0ZhAVwjCiMBFhYaTxIgd2gUdCY/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-nobody-2-2025-lk21.jpg.webp", Nobody 2 (2025)
+https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNvY0d-dh0BHQA8BREdJkNzezdGLiYA/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcxYmNmNTktZDhlNS00ZGUzLTk2NGUtZDQwMDVmMWZkMjY0XkEyXkFqcGc@._V1_.jpg", The Family Plan (2023) 
+https://cloud.hownetwork.xyz/xxx/69eec6eba8c4575f98dd6050bebc90bc/22/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 3 (2023)
+https://cloud.hownetwork.xyz/xxx/5edd6e76ed4fdfa1034b0be0291f52ad/16/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 2 (2023)
+https://cloud.hownetwork.xyz/xxx/79a55f48b847800cf6a2660ab847aa71/24/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 1 (2023)
+https://cloud.hownetwork.xyz/xxx/e867f9f438427795757acccf67303e6d/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg", John Wick: Chapter 4 (2023)
+https://cloud.hownetwork.xyz/xxx/7dfaf46a3f996704f3ba333f161f5f93/6/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/05/film-john-wick-chapter-3-parabellum-2019-lk21.jpg", John Wick: Chapter 3 - Parabellum (2019)
+https://cloud.hownetwork.xyz/xxx/f8d4e620f1c8ddbbddf0e7881d2f9f49/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2017/02/film-john-wick-chapter-2-2017.jpg", John Wick: Chapter 2 (2017)
+https://cloud.hownetwork.xyz/xxx/70ce7f2861d3f0e584e7b7f5875a5002/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-john-wick-2014.jpg", John Wick (2014)
+https://cloud.hownetwork.xyz/xxx/d7280cb1f45196ca1d13a2211ad9d440/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="x", 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-hallow-road-2025-lk21.jpg.webp", Hallow Road (2025)
+https://cloud.hownetwork.xyz/xxx/KhklIioOWjMtMBNhcQBkbW8vDAwBNSgZHTBGeiYCYWhy/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21-d21.jpg.webp", Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
+https://cloud.hownetwork.xyz/xxx/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bnMXFR0gFnwmHU90dWcT/33/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type=""  group-title="UNGGULAN 2025"" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-28-years-later-2025-lk21-d21.jpg.webp", 28 Years Later (2025)
+https://cloud.hownetwork.xyz/xxx/cEBkNyAYBTJvPRY4JkJ7anJKfGMSPDUFDg4vE3pSZDl2G3p9/33/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type=""  group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-elio-2025-lk21.jpg.webp", Elio (2025)
+https://cloud.hownetwork.xyz/xxx/JxQgIWhLR3N3fCAJAXQaBxoneC92SEV3djU/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp", Superman (2025)
+https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJhV5cTNGeScD/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg", Mission: Impossible – The Final Reckoning (2025)
+https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEUdRQcDicREScdFHkgMBF6/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/03/film-ne-zha-2-2025-lk21-d21.jpg.webp", Ne Zha II (2025)
+https://cloud.hownetwork.xyz/xxx/LB1kNC0YWnNvY0d-dh0BHQA8BREdJhRwITJEfnYE/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp", Jurassic World: Rebirth (2025)
+https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYRR1FBwOJxERIUtBeHNhRHw/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/08/film-king-ivory-2025-lk21-d21.jpg.webp", King Ivory (2025)
+https://cloud.hownetwork.xyz/xxx/KREnKWgQAS4wKFp-cwJjdRU9CwoJJi8ecDcTfXtVNDs/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",  Snow White (2025)
+https://cloud.hownetwork.xyz/xxx/MRYmOWgOHyg2NFp-cwJjdTUdKyopJi8eejATL3cCMD0/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg.webp", Thunderbolts* (2025)
+https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVKi8oJi8eJDBPdXcEM2w/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8PmxsTT77KBlmT3OWyf3Q09yBOy.jpg",  The Match (2025)
+https://cloud.hownetwork.xyz/xxx/NhAsYygYAyIqfEV8cQV7LycaLSIaISh0dzVAKnpVbw/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-wick-is-pain-2025-lk21-d21.jpg.webp", Wick Is Pain (2025)
+https://cloud.hownetwork.xyz/xxx/NREqJWgQBGwyMB4ibgJmandVPisnHRseGg4SenIDNDpyTA/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-warfare-2025-lk21-d21.jpg.webp", Warfare (2025)
+https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-last-bullet-2025-lk21-d21.jpg.webp", Last Bullet (2025) 
+https://cloud.hownetwork.xyz/xxx/Lhk6OmgbAi0uNANhcQBkbW8PLCwhFSgZHWVEKSYAZ2tw/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jRdxyW5ZmhD3ycStlb7gwOewTuE.jpg",  The Electric State (2025)
+https://cloud.hownetwork.xyz/xxx/99f9ebdf7b923b28faa345ec6bd0d33e/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",  Minecraft Movie (2025)
+https://cloud.hownetwork.xyz/xxx/I1UkJyscFDMjNwNhLl8gMSdVe353TFo2JzMTIBxoCW1yQXAqdUkW/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2018/10/film-venom2018-lk21.jpg.webp", Venom (2018)
+https://cloud.hownetwork.xyz/xxx/5e4cae63b70334ef15da3c89365ff70e/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2021/10/film-venom-let-there-be-carnage-2021-lk21.jpg.webp", Venom - Let There Be Carnage (2021)
+https://cloud.hownetwork.xyz/xxx/12b65616a3bb238b3438d7fd02106766/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",  Venom  The Last Dance (2024)
+https://cdn.turboviplay.com/data1/6782110cd6512/6782110cd6512480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNcVsbNvJRDnMrloUCvb6Tii52r.jpg",  It Feeds (2025)
+https://cdn1.turboviplay.com/data1/6804623d3481f/6804623d3481f720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/12/film-the-accountant-2016.jpg.webp", The Accountant 1 (2016)
+https://cloud.hownetwork.xyz/xxx/b4021c1868d979aa64344c6f0090704e/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AvAjlqg8gOSSfKnrSFE0yxlyZD4.jpg",  The Accountant 2 (2025)
+https://drive.usercontent.google.com/download?id=18DHBZ1kIzFu3SYT4r42VDzPdt8Nl24Wh&export=download&authuser=0&confirm=t&uuid=9087da89-eaca-4f9b-b8a7-a93a65d3c53c&at=APcmpoxnGu92Tu5jGJvHKTZkisHl:1745933339476
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m1X8iZWhe5zhcOQQAHGkcN9IsTS.jpg",  Dongeng Sang Kancil (2024)
+https://cloud.hownetwork.xyz/xxx/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-havoc-2025-lk21-d21.jpg.webp", Havoc (2025)
+https://cloud.hownetwork.xyz/xxx/Khk_ISZURXFwZFo7JlIyNB0gFixxTEdydWBP/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",  A Working Man (2025)
+https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",  Captain America  Brave New World (2025)
+https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt7aBsbNDAwDhMbbzRqe096d3Yb/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",  Cleaner (2025)
+https://cloud.hownetwork.xyz/xxx/8acf0948a31acb5abea1d766d98e2ddc/25/480.m3u8
+
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",  Mission Impossible - Fallout (2018)
+https://storage.dewanonton.online/hls/955f19bc-57b2-4228-9f62-06c235e9ae3c.mp4/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg",  Mission: Impossible Dead Reckoning Part One (2023)
+https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZCogGBNsMDQUJyxePzYlVTkvNw1aLiw0Wn5zAmV1IBQ8PCQAKBkdZUV7JgliOXI/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/04/film-arthur-the-king-2024-lk21-d21.jpg.webp", Arthur the King (2024)
+https://cloud.hownetwork.xyz/xxx/13d702e8626d081edb916e4fe12c2be6/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/04/film-officer-on-duty-2025-lk21-d21.jpg.webp", Officer on Duty (2025)
+https://cloud.hownetwork.xyz/xxx/LR4vJyYcBWwtP1ooNkQvdXBIe3toDhIjJj0oFBwJZTtxTXh8dQ/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/04/film-veera-dheera-sooran-part-2-2025-lk21-d21.jpg.webp", Veera Dheera Sooran: Part 2 (2025)
+https://cdn2.turboviplay.com/data1/680e14cd74c33/680e14cd74c33720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pymBV1KTRqda9I3HkVdB08ZiUyZ.jpg",  Legends of the Condor Heroes: The Gallants (2025)
+https://sipk.obypetroskymmg.sbs/db/x6ut8v/cf-master.txt?v=1744412549|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/04/film-freaky-tales-2025-lk21-d21.jpg.webp", Freaky Tales (2025)
+https://cloud.hownetwork.xyz/xxx/JAosLy4AWjUjPRI_bgJmandVPisnHRseGg5ELycFbzsgTw/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",  Bullet Train Explosion (2025)
+https://cloud.hownetwork.xyz/xxx/IA0lIiANWjUwMB4iblUuKC4XOicqF1pzcmNCYTRVNDwuJxERJhhDdXUyE30/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",  Locked (2025)
+https://cloud.hownetwork.xyz/xxx/LhcqJSAdWnNyY0JhNFU0PC4nERF8G0Z5JjcRLQ/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",  Mickey 17 (2025)
+https://cloud.hownetwork.xyz/xxx/809b13488e01e8c348f949128d837a63/31/480.m3u8
+
+
+============================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png", **** UNGGULAN ****
+https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://e7.pngegg.com/pngimages/262/768/png-clipart-traffic-sign-sign-stop-angle-text.png", **** B A T A S ****
+https://e7.pngegg.com/pngimages/262/768/png-clipart-traffic-sign-sign-stop-angle-text.png
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="UNGGULAN 2025" tvg-logo="https://png.pngtree.com/png-vector/20210827/ourmid/pngtree-new-item-poster-png-image_3834274.jpg",  *** NEW ITEM ***
+https://png.pngtree.com/png-vector/20210827/ourmid/pngtree-new-item-poster-png-image_3834274.jpg
+
 
 
 
@@ -145,373 +514,6 @@ https://cloud.hownetwork.xyz/xxx/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
 john wick
 
 
-//========================================================================
-//menampilkan playlist >>> UNGGULAN LK21
-//========================================================================
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png", *** UNGGULAN ***
-https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoLql3YmWNdqWXEiZj6d3j6av5RmF48QrEQ&s", The Fantastic Four: First Steps (2025) 
-https://cloud.hownetwork.xyz/xxx/NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnxjEjw1BQ4OLxMmAG87cUp5LA/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNlMzI3OWMtYmI4OC00OTJlLWE0ZTAtYWFjYTBjNGI0NmEzXkEyXkFqcGc@._V1_.jpg", Night of the Reaper (2025)
-https://cloud.hownetwork.xyz/xxx/LBEuJjFUBSQjIRI-bgJmandVHgsHPTseGg5EKSIDMGhyGg/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_.jpg", The Naked Gun (2025) 
-https://cloud.hownetwork.xyz/xxx/LBkiKyFUEDQsfEV8cQV7Dwc6DQIaISglcjAWL3cJYQ/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhkMjFhOTItMTczNi00YWM1LTlhZjItOTc4OTA0OWVhZTIzXkEyXkFqcGc@._V1_QL75_UX820_.jpg", Mahavatar Narsimha (2025)
-https://cloud.hownetwork.xyz/xxx/LxkhLzMYAyAwfBktMUM_NSoZZHx1S0JsFRQ1CA9vDgdzSCoqdRwRJw/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://image.tmdb.org/t/p/original/pb8rHkAyojBYtMe5fnSvFMCPc3D.jpg", Dog (2022)
-https://cloud.hownetwork.xyz/xxx/LBkiKyFUEDQsfEV8cQV7Dwc6DQIaISglcjAWL3cJYQ/34/480.m3u8
-https://fin-3dg-b1.i8yz83pn.com/hls2/10/02744/c2jis8r3idis_h/index-v1-a1.m3u8?t=vg7uvmb4t0WpHhL0zEtrjzh43cNqWAOOLENbf6pMhZQ&s=1758678896&e=10800&f=13720087&srv=1075&asn=7713&sp=4000&p=
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3OhCqOnyix1WwZY4nMc0lTQendAV0X0bGg&s", The Protector (2025)
-https://cloud.hownetwork.xyz/xxx/MgomOiAaAy4wfEV8cQV7Dwc6DQIaISh5cmETKXoGMA/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4tiUIkWxvTN60EfEhzMxkL6oq8PPkCH9hg&s", Incredibles 2 (2018)
-https://cloud.hownetwork.xyz/xxx/ab505dc448b6facb62c66961251263cb/5/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://image.tmdb.org/t/p/original/6NuPGSZ7VGT6I5j0kQZcMVa0eAO.jpg", The Incredibles (2004)
-https://cloud.hownetwork.xyz/xxx/5063e417bd205c13764447c3e21bcc3f/8/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w500/w0WpSIv7ta6Cc4yRfTCkmEbAolW.jpg", A Gilded Game (2025)
-https://cloud.hownetwork.xyz/xxx/I1UuJykdEiVvNhYhJh1kaHBNZAwpDCUgOw4vEyAFN20gSXks/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdhMjA2NWMtNmVkOC00ODdiLTgwNjItNWQ5ZGI1ZTEzODI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Kannappa (2025)
-https://cloud.hownetwork.xyz/xxx/KRknICQJByBvY0d-dh0BHQA8BREdJkN5cTQTfCYE/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Bullet Train (2022)
-https://cloud.hownetwork.xyz/xxx/ca5beb69a2f2e368dd771da9dca261d3/3/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmucAGOHA9OLQBU4RXiJpRjyJm-pN8zsRxw&s", Noijeu (2025)
-https://cloud.hownetwork.xyz/xxx/LBcgJCAMWnNyY0JhFHUUHA4nERFwThEldmcTLQ/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzZjVhYTktZDA3YS00M2NjLTkzZTItYzNkMTZjMjY2MmIzXkEyXkFqcGc@._V1_.jpg", Prisoner of War (2025) 
-https://cloud.hownetwork.xyz/xxx/MgogPSoXEjNvJhY-bgJmandVHgsHPTseGg4ReCIEb2t7Tw/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUyM2MzMWQtOWU0OC00MmI3LWFmODctODc4NGZiMjMxYWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Suryapet Junction (2025)
-https://cloud.hownetwork.xyz/xxx/MQ07NyQJEjVvOwIiIEQ_NyxVe353TFoWBxMzABxoCTtzT3h2cEFB/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BODNkNmRkYTYtYjMyNi00MjAxLWFhN2UtNzJmZThjZDE5MzljXkEyXkFqcGc@._V1_.jpg", Captain Hook: The Cursed Tides (2025)
-https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwqPhgnblMjKjEdLWMxEBMkMXxFfHEFew8HOg0CGiEodyRiE3lzA2c/34/480.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E0YjdmNzMtOWIyNi00NDk4LWJhMWUtYWM0ZmI3NThjMDliXkEyXkFqcGc@._V1_.jpg", Frank (2025)
-https://cloud.hownetwork.xyz/xxx/JAooIC5URXFwZFobBnISFB0gFntwQEd4cDJO/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFmOWU2MDAtNzc5My00NWZiLWI5YzQtZjczOTY3ZTYxYTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Life's a Bitch (2023)
-https://cloud.hownetwork.xyz/xxx/LhEvKzZUFSg2Mh9hcQBka28vDAwBNSgZHWBEeXJVbzon/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Z-4_s9GueNII1ojfIXc7rf39Z3hSPqDy7w&s", Simon (2024)
-https://cloud.hownetwork.xyz/xxx/MREkIStURXFwZVobBnISFB0gFnp1H0N4e2hG/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yich0Yh_ojlBYhbCuI3jiW1kTWr6f3-BXQ&s", Coolie (2025) 
-https://cloud.hownetwork.xyz/xxx/IRcmIiwcWnNyY0JhFHUUHA4nERF3GER5cDBFLg/34/480.m3u8
-
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",  The Last Witch Hunter (2015)
-https://cloud.hownetwork.xyz/xxx/803c30f3090185903a66d0ce1b242d7a/3/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg", Weapons (2025)
-https://cloud.hownetwork.xyz/xxx/NR0oPioXBGxwYUV5bmcTGgY0FhYaT0QgczBAfiA/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/04/film-nobody-2021-lk21.jpg.webp", Nobody (2021)
-https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNyY0ZhAVwjCiMBFhYaTxIgd2gUdCY/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-nobody-2-2025-lk21.jpg.webp", Nobody 2 (2025)
-https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNvY0d-dh0BHQA8BREdJkNzezdGLiYA/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcxYmNmNTktZDhlNS00ZGUzLTk2NGUtZDQwMDVmMWZkMjY0XkEyXkFqcGc@._V1_.jpg", The Family Plan (2023) 
-https://cloud.hownetwork.xyz/xxx/69eec6eba8c4575f98dd6050bebc90bc/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 3 (2023)
-https://cloud.hownetwork.xyz/xxx/5edd6e76ed4fdfa1034b0be0291f52ad/16/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 2 (2023)
-https://cloud.hownetwork.xyz/xxx/79a55f48b847800cf6a2660ab847aa71/24/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/09/film-the-continental-from-the-world-of-john-wick-2023-lk21-d21.jpg", The Continental: From the World of John Wick - Season 1 Episode 1 (2023)
-https://cloud.hownetwork.xyz/xxx/e867f9f438427795757acccf67303e6d/3/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg", John Wick: Chapter 4 (2023)
-https://cloud.hownetwork.xyz/xxx/7dfaf46a3f996704f3ba333f161f5f93/6/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/05/film-john-wick-chapter-3-parabellum-2019-lk21.jpg", John Wick: Chapter 3 - Parabellum (2019)
-https://cloud.hownetwork.xyz/xxx/f8d4e620f1c8ddbbddf0e7881d2f9f49/2/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2017/02/film-john-wick-chapter-2-2017.jpg", John Wick: Chapter 2 (2017)
-https://cloud.hownetwork.xyz/xxx/70ce7f2861d3f0e584e7b7f5875a5002/5/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-john-wick-2014.jpg", John Wick (2014)
-https://cloud.hownetwork.xyz/xxx/d7280cb1f45196ca1d13a2211ad9d440/3/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="x", 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-hallow-road-2025-lk21.jpg.webp", Hallow Road (2025)
-https://cloud.hownetwork.xyz/xxx/KhklIioOWjMtMBNhcQBkbW8vDAwBNSgZHTBGeiYCYWhy/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21-d21.jpg.webp", Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
-https://cloud.hownetwork.xyz/xxx/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bnMXFR0gFnwmHU90dWcT/33/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type=""  group-title="UNGGULAN LK21"" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-28-years-later-2025-lk21-d21.jpg.webp", 28 Years Later (2025)
-https://cloud.hownetwork.xyz/xxx/cEBkNyAYBTJvPRY4JkJ7anJKfGMSPDUFDg4vE3pSZDl2G3p9/33/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type=""  group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-elio-2025-lk21.jpg.webp", Elio (2025)
-https://cloud.hownetwork.xyz/xxx/JxQgIWhLR3N3fCAJAXQaBxoneC92SEV3djU/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp", Superman (2025)
-https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJhV5cTNGeScD/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg", Mission: Impossible – The Final Reckoning (2025)
-https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEUdRQcDicREScdFHkgMBF6/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/03/film-ne-zha-2-2025-lk21-d21.jpg.webp", Ne Zha II (2025)
-https://cloud.hownetwork.xyz/xxx/LB1kNC0YWnNvY0d-dh0BHQA8BREdJhRwITJEfnYE/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp", Jurassic World: Rebirth (2025)
-https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYRR1FBwOJxERIUtBeHNhRHw/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/08/film-king-ivory-2025-lk21-d21.jpg.webp", King Ivory (2025)
-https://cloud.hownetwork.xyz/xxx/KREnKWgQAS4wKFp-cwJjdRU9CwoJJi8ecDcTfXtVNDs/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",  Snow White (2025)
-https://cloud.hownetwork.xyz/xxx/MRYmOWgOHyg2NFp-cwJjdTUdKyopJi8eejATL3cCMD0/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg.webp", Thunderbolts* (2025)
-https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8/33/480.m3u8
-https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVKi8oJi8eJDBPdXcEM2w/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8PmxsTT77KBlmT3OWyf3Q09yBOy.jpg",  The Match (2025)
-https://cloud.hownetwork.xyz/xxx/NhAsYygYAyIqfEV8cQV7LycaLSIaISh0dzVAKnpVbw/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-wick-is-pain-2025-lk21-d21.jpg.webp", Wick Is Pain (2025)
-https://cloud.hownetwork.xyz/xxx/NREqJWgQBGwyMB4ibgJmandVPisnHRseGg4SenIDNDpyTA/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-warfare-2025-lk21-d21.jpg.webp", Warfare (2025)
-https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-last-bullet-2025-lk21-d21.jpg.webp", Last Bullet (2025) 
-https://cloud.hownetwork.xyz/xxx/Lhk6OmgbAi0uNANhcQBkbW8PLCwhFSgZHWVEKSYAZ2tw/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jRdxyW5ZmhD3ycStlb7gwOewTuE.jpg",  The Electric State (2025)
-https://cloud.hownetwork.xyz/xxx/99f9ebdf7b923b28faa345ec6bd0d33e/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",  Minecraft Movie (2025)
-https://cloud.hownetwork.xyz/xxx/I1UkJyscFDMjNwNhLl8gMSdVe353TFo2JzMTIBxoCW1yQXAqdUkW/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2018/10/film-venom2018-lk21.jpg.webp", Venom (2018)
-https://cloud.hownetwork.xyz/xxx/5e4cae63b70334ef15da3c89365ff70e/11/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2021/10/film-venom-let-there-be-carnage-2021-lk21.jpg.webp", Venom - Let There Be Carnage (2021)
-https://cloud.hownetwork.xyz/xxx/12b65616a3bb238b3438d7fd02106766/11/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",  Venom  The Last Dance (2024)
-https://cdn.turboviplay.com/data1/6782110cd6512/6782110cd6512480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNcVsbNvJRDnMrloUCvb6Tii52r.jpg",  It Feeds (2025)
-https://cdn1.turboviplay.com/data1/6804623d3481f/6804623d3481f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/12/film-the-accountant-2016.jpg.webp", The Accountant 1 (2016)
-https://cloud.hownetwork.xyz/xxx/b4021c1868d979aa64344c6f0090704e/4/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AvAjlqg8gOSSfKnrSFE0yxlyZD4.jpg",  The Accountant 2 (2025)
-https://drive.usercontent.google.com/download?id=18DHBZ1kIzFu3SYT4r42VDzPdt8Nl24Wh&export=download&authuser=0&confirm=t&uuid=9087da89-eaca-4f9b-b8a7-a93a65d3c53c&at=APcmpoxnGu92Tu5jGJvHKTZkisHl:1745933339476
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m1X8iZWhe5zhcOQQAHGkcN9IsTS.jpg",  Dongeng Sang Kancil (2024)
-https://cloud.hownetwork.xyz/xxx/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-havoc-2025-lk21-d21.jpg.webp", Havoc (2025)
-https://cloud.hownetwork.xyz/xxx/Khk_ISZURXFwZFo7JlIyNB0gFixxTEdydWBP/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",  A Working Man (2025)
-https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",  Captain America  Brave New World (2025)
-https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt7aBsbNDAwDhMbbzRqe096d3Yb/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",  Cleaner (2025)
-https://cloud.hownetwork.xyz/xxx/8acf0948a31acb5abea1d766d98e2ddc/25/480.m3u8
-
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",  Mission Impossible - Fallout (2018)
-https://storage.dewanonton.online/hls/955f19bc-57b2-4228-9f62-06c235e9ae3c.mp4/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg",  Mission: Impossible Dead Reckoning Part One (2023)
-https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZCogGBNsMDQUJyxePzYlVTkvNw1aLiw0Wn5zAmV1IBQ8PCQAKBkdZUV7JgliOXI/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/04/film-arthur-the-king-2024-lk21-d21.jpg.webp", Arthur the King (2024)
-https://cloud.hownetwork.xyz/xxx/13d702e8626d081edb916e4fe12c2be6/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/04/film-officer-on-duty-2025-lk21-d21.jpg.webp", Officer on Duty (2025)
-https://cloud.hownetwork.xyz/xxx/LR4vJyYcBWwtP1ooNkQvdXBIe3toDhIjJj0oFBwJZTtxTXh8dQ/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/04/film-veera-dheera-sooran-part-2-2025-lk21-d21.jpg.webp", Veera Dheera Sooran: Part 2 (2025)
-https://cdn2.turboviplay.com/data1/680e14cd74c33/680e14cd74c33720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pymBV1KTRqda9I3HkVdB08ZiUyZ.jpg",  Legends of the Condor Heroes: The Gallants (2025)
-https://sipk.obypetroskymmg.sbs/db/x6ut8v/cf-master.txt?v=1744412549|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/04/film-freaky-tales-2025-lk21-d21.jpg.webp", Freaky Tales (2025)
-https://cloud.hownetwork.xyz/xxx/JAosLy4AWjUjPRI_bgJmandVPisnHRseGg5ELycFbzsgTw/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",  Bullet Train Explosion (2025)
-https://cloud.hownetwork.xyz/xxx/IA0lIiANWjUwMB4iblUuKC4XOicqF1pzcmNCYTRVNDwuJxERJhhDdXUyE30/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",  Locked (2025)
-https://cloud.hownetwork.xyz/xxx/LhcqJSAdWnNyY0JhNFU0PC4nERF8G0Z5JjcRLQ/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",  Mickey 17 (2025)
-https://cloud.hownetwork.xyz/xxx/809b13488e01e8c348f949128d837a63/31/480.m3u8
-
-
-============================
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png", **** UNGGULAN ****
-https://w7.pngwing.com/pngs/899/448/png-transparent-famous-favorite-featured-star-super-basic-ui-jumpicon-filled-line-icon.png
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://e7.pngegg.com/pngimages/262/768/png-clipart-traffic-sign-sign-stop-angle-text.png", **** B A T A S ****
-https://e7.pngegg.com/pngimages/262/768/png-clipart-traffic-sign-sign-stop-angle-text.png
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="UNGGULAN LK21" tvg-logo="https://png.pngtree.com/png-vector/20210827/ourmid/pngtree-new-item-poster-png-image_3834274.jpg",  *** NEW ITEM ***
-https://png.pngtree.com/png-vector/20210827/ourmid/pngtree-new-item-poster-png-image_3834274.jpg
-
-
 
 //////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
@@ -520,6 +522,26 @@ https://png.pngtree.com/png-vector/20210827/ourmid/pngtree-new-item-poster-png-i
 //menampilkan playlist >>> MOVIES VOD 2025
 //========================================================================
 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://toxicavenger.com/wp-content/uploads/Image20250703114536.png", The Toxic Avenger (2025)
+https://cloud.hownetwork.xyz/xxx/NhcxJyZUFjcnPxApMR1kaHBNZBkAOzMNHQkoeyVWZ24mTCo/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="xxx", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="xxx", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="xxx", 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="xxx", 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -13934,6 +13956,31 @@ https://cloud.hownetwork.xyz/xxx/5f8390a014e045f4457638c24aa9aec0/30/480.m3u8
 FILM ANIMASI
 
 ========================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM ANIMASI" tvg-logo="x", Into the Wonderwoods (2024)
+
+
 
 
 
